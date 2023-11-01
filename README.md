@@ -1,0 +1,2 @@
+# MediGuru
+MediGuru: Chatbot for Dengue Project emerges as a pioneering and comprehensive solution. This project is designed to address a pressing need: raising awareness, providing accurate information, and extending support to individuals and communities grappling with the relentless burden of dengue. Central to the MediGuru are a set of pivotal objectives, which include education and awareness dissemination, symptom assessment, provision of preventive measures
